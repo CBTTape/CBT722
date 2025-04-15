@@ -1,12 +1,12 @@
-2025-04-15 05:00:24.666962 - Received CBT.V505.FILE722.PDS from FILE722.XMI 
-2025-04-15 05:00:24.668408 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:00:24.668738 - Found $$$COSHU.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$COSHU
-2025-04-15 05:00:24.668964 - Found $$$FILEW.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$FILEW
-2025-04-15 05:00:24.669192 - Found @FILE722.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/@FILE722
-2025-04-15 05:00:24.669417 - Found CMFILE.jcl (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/CMFILE
-2025-04-15 05:00:24.669582 - Found COB3CMP.jcl (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/COB3CMP
-2025-04-15 05:00:24.669801 - Found HEXFL1.bin (application/octet-stream) in CBT.V505.FILE722.PDS, moved to PDS/HEXFL1
-2025-04-15 05:00:24.670001 - Found HEXFL2.bin (application/octet-stream) in CBT.V505.FILE722.PDS, moved to PDS/HEXFL2
-2025-04-15 05:00:24.670690 - Found JXCU001.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXCU001
-2025-04-15 05:00:24.671068 - Found JXPRU001.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXPRU001
-2025-04-15 05:00:24.671433 - Found JXREPRO1.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXREPRO1
+2025-04-15 23:42:04.979636 - Received CBT.V505.FILE722.PDS from FILE722.XMI 
+2025-04-15 23:42:04.981060 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:42:04.981228 - Found $$$COSHU.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$COSHU
+2025-04-15 23:42:04.981447 - Found $$$FILEW.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/$$$FILEW
+2025-04-15 23:42:04.981499 - Found @FILE722.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/@FILE722
+2025-04-15 23:42:04.981704 - Found CMFILE.jcl (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/CMFILE
+2025-04-15 23:42:04.981854 - Found COB3CMP.jcl (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/COB3CMP
+2025-04-15 23:42:04.982051 - Found HEXFL1.bin (application/octet-stream) in CBT.V505.FILE722.PDS, moved to PDS/HEXFL1
+2025-04-15 23:42:04.982255 - Found HEXFL2.bin (application/octet-stream) in CBT.V505.FILE722.PDS, moved to PDS/HEXFL2
+2025-04-15 23:42:04.982913 - Found JXCU001.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXCU001
+2025-04-15 23:42:04.983270 - Found JXPRU001.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXPRU001
+2025-04-15 23:42:04.983620 - Found JXREPRO1.txt (text/plain) in CBT.V505.FILE722.PDS, moved to PDS/JXREPRO1
